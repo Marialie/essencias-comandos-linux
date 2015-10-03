@@ -19,7 +19,7 @@ Valeu galera e bons estudos.
 Maria Alves  ----
 
  <pre>
- mkadir= criar pasta
+ mkdir= criar pasta
 pwd=listar pastas e arquivos
 ls=mudar de pasta
 cat=mostrar texto de dentro de um arquivo
